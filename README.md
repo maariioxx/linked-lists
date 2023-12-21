@@ -1,1 +1,1 @@
-# linked-lists
+I'm creating a Linked List algorithm using JS
